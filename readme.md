@@ -1,1 +1,1 @@
-hi
+Hello everyone I have just started to learn react and git. Now I will try to do it consistently.

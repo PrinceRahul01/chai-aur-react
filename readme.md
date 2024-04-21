@@ -1,1 +1,2 @@
 Hello everyone I have just started to learn react and git. Now I will try to do it consistently.
+Today on 21 Apr 2024 I learned how to clean your code and how to make a basic component along with syntax rules.

@@ -1,2 +1,3 @@
 Hello everyone I have just started to learn react and git. Now I will try to do it consistently.
 Today on 21 Apr 2024 I learned how to clean your code and how to make a basic component along with syntax rules.
+The file 02counter is my first ever counter project in react : it shows counter and have two buttons, one two increase the counter value and another to decrease the counter value. We can see the change in the UI during the click.
